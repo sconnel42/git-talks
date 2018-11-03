@@ -1,15 +1,36 @@
-# Flux
+# Pythonic Coding
 
-An application architecture for React
-
----
-
-### Flux Design
-
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+An introduction on how to write well-styled Python.
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Zen of Python
+
+- Beautiful is better than ugly.
+- Explicit is better than implicit.
+- Simple is better than complex.
+
+[Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+---
+
+### Explicit Coding
+
+#### Bad:
+```
+def make_complex(*args):
+    x, y = args
+    return dict(**locals())
+```
+
+#### Good:
+```
+def make_complex(x, y):
+    return {'x': x, 'y': y}
+```
+
+---
+
+### A Foolish Consistency is the Hobgoblin of Little Minds
+
+##### Don't break from the style of your code!
