@@ -19,7 +19,7 @@ An introduction on how to write well-styled Python.
 ### Explicit Coding
 
 @snap[pull-left]
-<div>Bad:</div>
+#### Bad:
 @snapend
 
 ```
@@ -29,7 +29,7 @@ def make_complex(*args):
 ```
 
 @snap[pull-left]
-<div>Good:</div>
+#### Good:
 @snapend
 ```
 def make_complex(x, y):
@@ -60,7 +60,7 @@ Don't break from the style of your project's code!
 @fa[lightbulb-o](Idea)
 @snapend
 
-@snap[south timeline prototype]
+@snap[midpoint timeline prototype]
 @fa[calendar](May 2018)
 <hr><br><br>
 @fa[cog](Prototype)

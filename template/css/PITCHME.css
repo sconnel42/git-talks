@@ -30,3 +30,7 @@
 .span-90 { width: 90% }
 .span-95 { width: 95% }
 .span-100 { width: 100% }
+
+.pull-left {
+    text-align: left;
+}
