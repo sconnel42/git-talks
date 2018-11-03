@@ -42,3 +42,31 @@ Don't break from the style of your code!
 @snap[west] @size[1.2em](Where words fail, music speaks.) @snapend
 
 @snap[south-west] Covered background image template. @snapend
+
+---?color=black
+
+@snap[north-west]
+@color[white](@fa[clock-o fa-4x])
+@snapend
+
+@snap[north-east]
+@css[message white](The Timeline)
+@snapend
+
+@snap[south-west timeline idea]
+@fa[calendar](Nov 2017)
+<hr><br><br>
+@fa[lightbulb-o](Idea)
+@snapend
+
+@snap[midpoint timeline prototype]
+@fa[calendar](May 2018)
+<hr><br><br>
+@fa[cog](Prototype)
+@snapend
+
+@snap[south-east timeline launch]
+@fa[calendar](Oct 2018)
+<hr><br><br>
+@fa[rocket](Launch!)
+@snapend
