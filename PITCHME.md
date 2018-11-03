@@ -34,3 +34,11 @@ def make_complex(x, y):
 ### A Foolish Consistency is the Hobgoblin of Little Minds
 
 ##### Don't break from the style of your code!
+
+---
+
+?image=img/headphones.jpg @title[Covered Background]
+
+@snap[west text-black span-15] @size[1.2em](Where words fail, music speaks.) @snapend
+
+@snap[south-west template-note text-white] Covered background image template. @snapend
