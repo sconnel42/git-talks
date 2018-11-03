@@ -1,4 +1,4 @@
-# Pythonic Coding
+## Pythonic Coding
 
 An introduction on how to write well-styled Python.
 
@@ -10,7 +10,7 @@ An introduction on how to write well-styled Python.
 - Explicit is better than implicit.
 - Simple is better than complex.
 
-[Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+@snap[south] [Zen of Python](https://www.python.org/dev/peps/pep-0020/) @snapend
 
 ---
 
@@ -37,8 +37,8 @@ def make_complex(x, y):
 
 ---
 
-?image=img/headphones.jpg @title[Covered Background]
++++?image=img/headphones.jpg @title[Covered Background]
 
-@snap[west text-black span-15] @size[1.2em](Where words fail, music speaks.) @snapend
+@snap[west] @size[1.2em](Where words fail, music speaks.) @snapend
 
-@snap[south-west template-note text-white] Covered background image template. @snapend
+@snap[south-west] Covered background image template. @snapend
