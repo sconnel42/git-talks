@@ -1,4 +1,4 @@
-## Pythonic Coding
+### Pythonic Coding
 
 An introduction on how to write well-styled Python.
 
@@ -33,7 +33,7 @@ def make_complex(x, y):
 
 ### A Foolish Consistency is the Hobgoblin of Little Minds
 
-##### Don't break from the style of your code!
+Don't break from the style of your code!
 
 ---
 
