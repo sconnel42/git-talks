@@ -43,7 +43,7 @@ Don't break from the style of your code!
 
 @snap[south-west] Covered background image template. @snapend
 
----?color=black
+---
 
 @snap[north-west]
 @color[white](@fa[clock-o fa-4x])
