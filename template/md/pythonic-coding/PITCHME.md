@@ -10,7 +10,9 @@ An introduction on how to write well-styled Python.
 - Explicit is better than implicit.
 - Simple is better than complex.
 
-@snap[south] [Zen of Python](https://www.python.org/dev/peps/pep-0020/) @snapend
+@snap[south]
+[Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+@snapend
 
 ---
 
@@ -31,17 +33,9 @@ def make_complex(x, y):
 
 ---
 
-### A Foolish Consistency is the Hobgoblin of Little Minds
+#### A Foolish Consistency is the Hobgoblin of Little Minds
 
 Don't break from the style of your project's code!
-
----
-
-+++?image=img/headphones.jpg @title[Covered Background]
-
-@snap[west] @size[1.2em](Where words fail, music speaks.) @snapend
-
-@snap[south-west] Covered background image template. @snapend
 
 ---
 
@@ -61,7 +55,7 @@ Don't break from the style of your project's code!
 @fa[lightbulb-o](Idea)
 @snapend
 
-@snap[midpoint timeline prototype]
+@snap[south timeline prototype]
 @fa[calendar](May 2018)
 <hr><br><br>
 @fa[cog](Prototype)
