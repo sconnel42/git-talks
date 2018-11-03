@@ -38,7 +38,7 @@ footnote : "Pythonic Coding - Sean Connelly"
 # Layout Setting
 # Doc: https://gitpitch.com/docs/settings/layout
 #
-layout : center
+layout : center-left
 
 #
 # Transition Setting
