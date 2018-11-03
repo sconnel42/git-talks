@@ -18,14 +18,18 @@ An introduction on how to write well-styled Python.
 
 ### Explicit Coding
 
-#### Bad:
+@snap[west]
+Bad:
+@snapend
 ```
 def make_complex(*args):
     x, y = args
     return dict(**locals())
 ```
 
-#### Good:
+@snap[west]
+Good:
+@snapend
 ```
 def make_complex(x, y):
     return {'x': x, 'y': y}
