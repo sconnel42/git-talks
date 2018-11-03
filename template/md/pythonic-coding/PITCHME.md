@@ -18,7 +18,7 @@ An introduction on how to write well-styled Python.
 
 ### Explicit Coding
 
-@snap[west]
+@snap[pull-left]
 Bad:
 @snapend
 ```
@@ -27,7 +27,7 @@ def make_complex(*args):
     return dict(**locals())
 ```
 
-@snap[west]
+@snap[pull-left]
 Good:
 @snapend
 ```
