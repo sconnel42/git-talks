@@ -19,18 +19,22 @@ An introduction on how to write well-styled Python.
 ### Explicit Coding
 
 @snap[pull-left]
-Bad:
+<div>Bad:</div>
+@snapend
+
 ```
 def make_complex(*args):
     x, y = args
     return dict(**locals())
 ```
-Good:
+
+@snap[pull-left]
+<div>Good:</div>
+@snapend
 ```
 def make_complex(x, y):
     return {'x': x, 'y': y}
 ```
-@snapend
 
 ---
 
